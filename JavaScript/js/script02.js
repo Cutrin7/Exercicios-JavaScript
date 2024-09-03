@@ -1,0 +1,1 @@
+document.getElementById('teste').innerHTML= 6 + 1
