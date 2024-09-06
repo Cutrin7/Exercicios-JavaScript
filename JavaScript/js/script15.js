@@ -1,3 +1,4 @@
+//EXERCICIO 4
 var numero01= parseInt(prompt('Escreva um número: '))
 var numero02= parseInt(prompt('Escreva um número: '))
 var numero03= parseInt(prompt('Escreva um número: '))
